@@ -1,24 +1,24 @@
 # Site settings
-title: Selcouth Cycles
-email: kohlkinning@gmail.com
-description: Custom wheelbuilding and bicycle repair services in Denver, CO
+title: Eukarya Farm
+email: tom@eukaryafarm.com
+description: Gourmet Mushroom Farm located in Fort Lupton, Colorado
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Kohl Kinning
 # street_address:
-city: Denver
+city: Ft. Lupton
 state: CO
-zip_code: 80205
+zip_code: 80621
 country: United States of America
-# phone: ((716) 555-5555)
 
-icon: fa-wrench 
+
+icon: fa-cutlery
 
 # Social settings
 #facebook_url:
-#github_url:
-instagram_url: https://www.instagram.com/selcouthcycles/?hl=en
-#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#github_url: 
+instagram_url: https://www.instagram.com/kingdomcomefarm_co/
+#linkedin_url: 
 #pinterest_url:
 #slack_url:
 #twitter_url: https://twitter.com/andrewbanchich
