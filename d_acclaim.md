@@ -1,5 +1,5 @@
 ---
-title: Acclaim
+title: acclaim
 ---
     
 <section>
