@@ -1,7 +1,0 @@
----
-title: Future Products
----
-
-<section>
-<h3 class="major">Coming soon!</h3>
-</section>
