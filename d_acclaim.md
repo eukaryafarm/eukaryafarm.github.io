@@ -24,7 +24,8 @@ looking for a quality supply of locally grown mushrooms."
 
 <h3 class="major">
     "We love the mushrooms we get from Eukarya each week. they’re as fresh as they come and taste fabulous. Tom’s mushrooms are our most popular market item at Somebody People."
-    </h3>
+</h3>
+<h4>
 -Tricia Maher (Owner of Somebody People Denver)
 </h4>
 <hr style="width:50%;text-align:left;margin-left:0">
