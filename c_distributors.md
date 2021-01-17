@@ -4,7 +4,7 @@ title: distributors
 <section>
 
 
-If you want to buy mushrooms, and are located in Front Range Area (Denver, Boulder, Longmont, etc) contact Peter from Oxford Gardens. Oxford gardens distributes Eukarya’s mushrooms, and others produce items connecting customers to many different farmers/ranchers all across Colorado!
+If you want to buy mushrooms, and are located in Front Range Area (Denver, Boulder, Longmont, etc) contact Peter from Oxford Gardens. Oxford gardens distributes Eukarya’s mushrooms and other produce, connecting farmers to customers all across Colorado!
 <br><br>
 <h3 class="major">Oxford Gardens</h3>
 <b>Peter S. Volz</b>
@@ -16,6 +16,7 @@ Boulder, CO 80302
 303.817.9676
 <br>
 www.oxfordgardensboulder.com
+<a href="www.oxfordgardensboulder.com">www.oxfordgardensboulder.com</a>
 <br>
 </section>	
 
