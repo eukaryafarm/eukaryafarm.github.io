@@ -15,7 +15,6 @@ Boulder, CO 80302
 <br>
 303.817.9676
 <br>
-www.oxfordgardensboulder.com
 <a href="www.oxfordgardensboulder.com">www.oxfordgardensboulder.com</a>
 <br>
 </section>	
