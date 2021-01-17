@@ -15,7 +15,7 @@ Boulder, CO 80302
 <br>
 303.817.9676
 <br>
-<a href="www.oxfordgardensboulder.com">www.oxfordgardensboulder.com</a>
+https://eukaryafarm.com/www.oxfordgardensboulder.com
 <br>
 </section>	
 
