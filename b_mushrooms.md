@@ -4,15 +4,6 @@ title: mushrooms
 
 <section>
 
-<h3 class="major">King Trumpet</h3>
-<i>Pleurotus eryngii</i>
-<br><br>
-Pleurotus Eryngii is considered as the King oyster due to its excellence in cap and stem consistency, long shelf life, and savory flavor. King Trumpets are tender, meaty, and can complement about any dish.
-<br><br>
-<img src="/assets/images/king_oyster.jpg" width="100%" height="100%">
-<br><br>
-
-
 <h3 class="major">Maitake</h3>
 <i>Grifola frondosa</i>
 <br><br>
@@ -37,6 +28,14 @@ Pleurotus ostreatus aka Blue Oyster is a staple in Kitchens around the world. Eu
 Pholiota Adiposa commonly referred to as chestnuts or cinnamon caps are a gorgeous mushroom with a mild, nutty flavor. Pholiota species produce a gel like substance on caps for preservation that adds great texture for risottos, humus dishes, and soups.
 <br><br>
 <img src="/assets/images/chestnut.jpg" width="100%" height="100%">
+<br><br>
+
+<h3 class="major">King Trumpet</h3>
+<i>Pleurotus eryngii</i>
+<br><br>
+Pleurotus Eryngii is considered as the King oyster due to its excellence in cap and stem consistency, long shelf life, and savory flavor. King Trumpets are tender, meaty, and can complement about any dish.
+<br><br>
+<img src="/assets/images/king_oyster.jpg" width="100%" height="100%">
 <br><br>
 
 </section>
