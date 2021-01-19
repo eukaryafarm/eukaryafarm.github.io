@@ -3,7 +3,7 @@ title: contact
 ---
 
 <!-- <form action="https://formspree.io/{{ site.email }}" method="POST"> -->
-<form action="https://formspree.io/f/mpzobwno" method="POST">
+<form action="https://formspree.io/f/mnqownre" method="POST">
 	<div class="fields">
 		<div class="field half first">
 			<label for="name">Name</label>
@@ -11,7 +11,7 @@ title: contact
 		</div>
 		<div class="field half">
 			<label for="email">Email</label>
-			<input type="text" name="_replyto" id="email" />
+			<input type="email" name="_replyto" id="email" />
 		</div>
 		<div class="field">
 			<label for="message">Message</label>
@@ -23,6 +23,7 @@ title: contact
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
+
 <ul class="icons">
 
 	{% if site.twitter_url %}
