@@ -1,5 +1,5 @@
 ---
-title: acclaim
+title: reviews
 ---
     
 <section>
@@ -51,6 +51,12 @@ looking for a quality supply of locally grown mushrooms."
 </p>
 <h4>
     -Paul Warthen (Executive Chef/Owner of Potager Denver)
+</h4>
+
+"Superior quality , nothing compares to all the strains of mushrooms I have received from Eukarya Farm. On time every time for delivery."
+</p>
+<h4>
+-Leroy Alvarado (Executive chef La Vita Bella)
 </h4>
 
 </section>
