@@ -52,6 +52,7 @@ looking for a quality supply of locally grown mushrooms."
 <h4>
     -Paul Warthen (Executive Chef/Owner of Potager Denver)
 </h4>
+<hr style="width:50%;text-align:left;margin-left:0">
 
 "Superior quality , nothing compares to all the strains of mushrooms I have received from Eukarya Farm. On time every time for delivery."
 </p>
