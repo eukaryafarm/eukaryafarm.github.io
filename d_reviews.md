@@ -61,5 +61,20 @@ looking for a quality supply of locally grown mushrooms."
     -Leroy Alvarado (Executive chef La Vita Bella)
 </h4>
 
+The mushrooms from Eukarya Farm are amazing. Always so full of flavour. I have been using them
+almost 2 years now and never an issue. Always fresh . The shelf life is second to none.
+<h4>
+    -Tom Grimmond Executive Chef (Executive Chef Collision Brewing Co.)
+</h4>
+<hr style="width:50%;text-align:left;margin-left:0">
+
+<p>
+Awesome mushrooms and more! Passion and knowledge truly show in the product we receive from
+Eukarya Farm. Thank you, Tom.
+</p>
+<h4>
+    -Ethan Cody (Sous Chef/Kitchen Manager Sweet Basil Vail)
+</h4>
+
 </section>
     
